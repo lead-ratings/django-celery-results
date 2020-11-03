@@ -5,7 +5,7 @@ os:
 services:
   - postgresql
 addons:
-  postgresql: "13"
+  postgresql: "12"
 dist: focal
 python:
   - 3.6
